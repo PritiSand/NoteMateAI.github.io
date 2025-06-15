@@ -1,0 +1,5 @@
+# Handle all text files line endings automatically
+* text=auto
+
+# Ignore changes in line endings
+*.py text eol=lf
