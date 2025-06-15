@@ -1,0 +1,6 @@
+*.wav
+__pycache__/
+*.pyc
+venv/
+whisper-env/
+summary_*.txt
